@@ -1,0 +1,6 @@
+pip uninstall pyaudio
+pip install pipwin
+pipwin install pyaudio
+
+
+audio tools needed 
